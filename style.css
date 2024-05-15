@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+
+.cool{
+   border: 10px solid white;
+   width: 100%;
+}
+
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 75px;
+    color:white;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h1{
+    font-family: "Shippori Antique", sans-serif;
+    font-size: 3rem;
+
+}
+
+p{
+    font-family: "Rock Salt", cursive;
+}
